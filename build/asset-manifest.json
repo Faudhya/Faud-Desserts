@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Faud-Desserts/static/css/main.29710e97.css",
+    "main.js": "/Faud-Desserts/static/js/main.671623e0.js",
+    "static/js/787.a889ad43.chunk.js": "/Faud-Desserts/static/js/787.a889ad43.chunk.js",
+    "static/media/bestseller-3.jpg": "/Faud-Desserts/static/media/bestseller-3.a2ae102283fcb980fe8d.jpg",
+    "static/media/signature-2.jpg": "/Faud-Desserts/static/media/signature-2.1490844ace2c1c5bf10d.jpg",
+    "static/media/signature-4.jpg": "/Faud-Desserts/static/media/signature-4.48d3729b61a33aea3def.jpg",
+    "static/media/signature-3.jpg": "/Faud-Desserts/static/media/signature-3.a7d7f638496645c5cc45.jpg",
+    "static/media/bestseller-6.jpg": "/Faud-Desserts/static/media/bestseller-6.41051633fa11030b5ae1.jpg",
+    "static/media/brownie.jpg": "/Faud-Desserts/static/media/brownie.3f51e8dfed6809517a90.jpg",
+    "static/media/signature-1.jpg": "/Faud-Desserts/static/media/signature-1.3bdac2d2428e96632196.jpg",
+    "static/media/signature-6.jpg": "/Faud-Desserts/static/media/signature-6.6ecb8685e9bc308d121a.jpg",
+    "static/media/bestseller-5.jpg": "/Faud-Desserts/static/media/bestseller-5.a569d0a31439e6d29795.jpg",
+    "static/media/bestseller-4.jpg": "/Faud-Desserts/static/media/bestseller-4.e9782f3e4a9a5d548b30.jpg",
+    "static/media/bestseller-2.jpg": "/Faud-Desserts/static/media/bestseller-2.f44037ed1f3d0b5e19ce.jpg",
+    "static/media/signature-5.jpg": "/Faud-Desserts/static/media/signature-5.a3cd77a2a9d985905a57.jpg",
+    "static/media/main.jpg": "/Faud-Desserts/static/media/main.244eb0ebe9a9d22475fa.jpg",
+    "static/media/pudding.jpg": "/Faud-Desserts/static/media/pudding.7f836c54e4b9f55113ba.jpg",
+    "static/media/bestseller-1.jpg": "/Faud-Desserts/static/media/bestseller-1.e891c23fb2d63b510548.jpg",
+    "static/media/logo.png": "/Faud-Desserts/static/media/logo.9e1fd0fee349400e424e.png",
+    "index.html": "/Faud-Desserts/index.html",
+    "main.29710e97.css.map": "/Faud-Desserts/static/css/main.29710e97.css.map",
+    "main.671623e0.js.map": "/Faud-Desserts/static/js/main.671623e0.js.map",
+    "787.a889ad43.chunk.js.map": "/Faud-Desserts/static/js/787.a889ad43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29710e97.css",
+    "static/js/main.671623e0.js"
+  ]
+}
