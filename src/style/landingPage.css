@@ -1,0 +1,66 @@
+.sub-title {
+    font-family: "Mulish", sans-serif;
+    font-weight: bold;
+    text-shadow: 2px 2px black;
+    letter-spacing: 3px;
+}
+
+.logo {
+    width: 50px;
+}
+
+Nav {
+    font-family: "Mulish", sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+}
+
+.myBG {
+    height: 100vh;
+    background: url("../assets/bg/main.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.bestseller {
+    height: auto;
+    background: url("../assets/bg/pudding.jpg");
+    background-size: cover;
+}
+
+.oursignature {
+    height: auto;
+    background: url("../assets/bg/brownie.jpg");
+    background-size: cover;
+}
+
+.card-text {
+    color: black;
+    font-family: "Mulish", sans-serif;
+}
+
+.foodImage {
+    height: autopx;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.images {
+    height: 300px;
+}
